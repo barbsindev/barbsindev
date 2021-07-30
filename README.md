@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @barbsindev
+- 👋 Hi, I’m @barbsindev 
+- I am currenctly working on switching career to front-end development
 - 👀 I’m interested in front-end development focusing on Javascript and React
 - 🌱 I’m currently learning Javascript and React
 - 📫 How to reach me barb.bobalova@gmail.com
