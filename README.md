@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @barbsindev 
-- I am currenctly working on switching careers to Frontend Development
 - 👀 I focus on building functional, clean and  responsive code 
 - I have completed SheCodes Workshops with main focus on Frontend Development and React
 - I participated in Chingu group project as a Frontend Developer
